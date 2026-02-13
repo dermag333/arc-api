@@ -1,5 +1,5 @@
 {
-  "minVersion": "1.3.2",
+  "minVersion": "1.3.3",
   "updateUrlAndroid": "https://appraider.de",
   "updateUrlWeb": "https://appraider.de/flutter-app/index.html",
   "message": null,
